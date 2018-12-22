@@ -12,7 +12,7 @@ pip install selenium
 ```
 ### 2. Chromedriver
 
-It is provided in the repository so that you don't have to waste your time downloading and putting it in the PATH.
+It is provided in the repository so that you don't have to waste your time downloading and putting it in the PATH environment variable.
 
 ## Usage
 
